@@ -1,2 +1,3 @@
 # osx-bootstrap
-Dotfiles for setting up a Mac
+
+Initial Mac setup; inspired by [tobiasknudsen](https://github.com/tobiasknudsen/dotfiles/tree/master)

@@ -7,15 +7,22 @@ brew "fd"
 brew "gnupg"
 brew "cmake"
 
-# Github
-brew "gh"
 
 # Dev tools
+brew "gh"
 brew "direnv"
+brew "fzf"
+brew "terraform"
+
+# Coding
+brew "node"
+brew "rustup-init"
 
 # Applications
 # brew "stats"
+cask "fleet"
 cask "firefox"
+cask "pycharm"
 
 # Fonts
 tap "homebrew/cask"

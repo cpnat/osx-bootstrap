@@ -5,10 +5,12 @@ brew "cmake"
 brew "coreutils"
 brew "fd"
 brew "gnupg"
+brew "gnuplot"
 brew "ripgrep"
 
 
 # Dev tools
+brew "dasel"
 cask "docker"
 brew "direnv"
 brew "fzf"

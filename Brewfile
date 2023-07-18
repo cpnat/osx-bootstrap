@@ -18,6 +18,7 @@ brew "gh"
 brew "kubernetes-cli"
 brew "kubectx"
 brew "node"
+brew "pandoc"
 brew "rustup-init"
 brew "terraform"
 
